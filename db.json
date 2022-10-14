@@ -1,0 +1,30 @@
+{
+    "favourites" : [
+    {
+       "title":"M.S. Dhoni - The Untold Story",
+       "genre":"sports and drama",
+       "language":"Hindi",
+       "rating":"9" 
+    },{
+        "title":"Friends",
+        "genre":"Comedy",
+        "language":"English",
+        "rating":"7" 
+    },{
+        "title":"Jab We Met",
+        "genre":"Romance",
+        "language":"Hindi",
+        "rating":"8" 
+    },{
+        "title":"Narnia",
+        "genre":"Thriller",
+        "language":"English",
+        "rating":"8.5" 
+    },{
+        "title":"YJHD",
+        "genre":"Romance",
+        "language":"Hindi",
+        "rating":"8" 
+    }
+]
+}

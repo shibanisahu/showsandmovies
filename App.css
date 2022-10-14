@@ -1,0 +1,169 @@
+.navbar{
+  background-color: rgb(2,24,60);
+  display: flex;
+  justify-content: space-around;
+  padding: 15px 0px;
+  align-items: center;
+}
+
+.links a{
+  color: whitesmoke;
+  text-decoration: none;
+  margin: 0px 15px;
+  font-size: 20px;
+}
+
+.links a:hover{
+  color: wheat;
+}
+
+.home{
+  background-color: rgb(2,24,60);
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.poster img{
+  border-radius: 10px;
+}
+
+.movies_list{
+  padding:45px 0px;
+}
+
+.movies_list img{
+  margin: 0px 10px;
+ border-radius: 8px;
+}
+
+.favs{
+  background-color: rgb(2,24,60);
+  color: white;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.favs h1{
+  font-size: 50px;
+  margin-top: 0px;
+}
+.list{
+  margin: 15px;
+  padding: 20px 0px;
+  background-color: lightslategrey;
+}
+.list h1{
+  font-size: 30px;
+}
+.list:hover{
+  background-color: rgb(2,24,60);
+}
+.footer{
+  background-color: rgb(2,24,60);
+  text-align: center;
+  padding: 25px 0px;
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+  margin: 0px 15px;
+}
+.footer p{
+  color: dimgray;
+}
+
+.addfavourites{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(2,24,60);
+  padding: 30px 40px 80px 40px;
+}
+
+.addfavourites input{
+  display: block;
+  margin: 15px 0px;
+  box-sizing: border-box;
+  width: 280px;
+  height: 40px;
+  border: none;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.addfavourites button{
+  background-color: rgb(47,95,249);
+  text-align: center;
+  color: white;
+  height: 35px;
+  width:400px;
+  border: none;
+  margin-left: 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+/* .addfavourites number{
+  width: 200px;
+  height: 30px;
+  padding: 10px;
+} */
+
+.content{
+  color: white;
+  background-color: rgb(12,12,90);
+  height: 320px;
+  width: 500px;
+  text-align: center;
+  padding: 99px 45px 10px 45px;
+}
+
+
+.form {
+  height:320px ;
+  width:500px;
+  background-color: rgba(243, 239, 239, 0.253);
+  padding: 60px 10px 50px 60px;
+  /* padding-left: 50px; */
+  align-items: center;
+}
+
+.form input{
+  display: block;
+  margin: 20px 20px;
+  border-radius: 5px;
+  width: 80%;
+  padding: 7px;
+}
+
+.about{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(22,23,23);
+  padding: 45px 0px;
+
+}
+
+.about img{
+  display:block;
+  margin-left: 70px;
+}
+
+.cont{
+  color: white;
+  padding: 90px;
+  margin-left: 25px;
+
+}
+
+.cont h1{
+  font-size: 50px;
+}
+
+.cont p{
+  font-size: 25px;
+}
